@@ -5,7 +5,7 @@ export const s = StyleSheet.create({
         maxHeight: 36,
         position: "absolute",
         zIndex: 1,
-        top: 30
+        top: 50
     },
     content: {
         gap: 8,
